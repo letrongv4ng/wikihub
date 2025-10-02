@@ -30,9 +30,7 @@
 - Tiếp theo sau khi click vào đường link của UZ***,kéo xuống và nhìn xuống góc phải bên dưới, thấy nút màu xanh lá cây nằm bên dưới cái ảnh to tướng chứ? __CLICK__ vào để tải về file "to rừn"(ở dưới có chữ ``` số KB ```) đấy.
 
 # Bước 4:
-- Sau khi đã tải thành công file đó về, tiếp tục tải phầm mềm để kéo "to rừn" về <a onClick={() => window.open(atob("aHR0cHM6Ly93d3cuYml0dG9ycmVudC5jb20v"), "_blank")}>tại đây.</a>  (```chọn "free download"```)
-- **LƯU Ý TRONG KHI CÀI**: **TUYỆT ĐỐI KHÔNG MÙ MẮT CHỌN NEXT NEXT NEXT LIÊN TỤC, ĐỌC KỸ ĐOẠN NÀO HIỆN RA CHỮ "SKIP ALL" THÌ CHỌN NGAY VÀO "SKIP ALL", BẰNG KHÔNG, MÁY MÀY SẼ TOÀN PHẦN MỀM KHÔNG MONG MUỐN**, nói cách khác, thiên hạ gọi đấy là ```cứt```.
-- Sau khi cài xong xuôi, mở file "to rừn" mày đã tải về từ nãy, nó sẽ tự điều hướng đến trang kéo "to rừn" về, đợi thôi là xong!.
+- Kéo torrent về, check hướng dẫn sử dụng ở [đây](/docs/Torrenting/Hướng%20dẫn%20sử%20dụng%20torrent.md).
 
 # Bước 5: 
 - Mở vị trí folder mày vừa kéo về, click 2 lần để mở.

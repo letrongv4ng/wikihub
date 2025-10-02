@@ -15,6 +15,6 @@ Check tính năng cụ thể các bài ở thư mục ```FEATURES```.
 
 - Dual-boot tiện lợi hơn với vhdx, config mạng đủ kiểu,...
 
-- Đóng góp ý kiến qua [đây](https://letrongvang.vercel.app/)
+# Đóng góp ý kiến qua [đây](https://letrongvang.vercel.app/).
     
     ```Ấn nút "Sign" và điền thông tin liên hệ hoặc lời nhắn ngắn gọn vào trong đó, đều sẽ gửi về mail tao thôi ;). ```
