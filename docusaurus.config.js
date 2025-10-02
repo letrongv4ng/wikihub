@@ -10,8 +10,8 @@ const config = {
     v4: true,
   },
 
-  url: 'https://your-docusaurus-site.example.com',
-  baseUrl: '/',
+  url: 'https://letrongv4ng.github.io',
+  baseUrl: '/wikihub/',
 
   organizationName: 'letrongv4ng',
   projectName: 'student-hub',
