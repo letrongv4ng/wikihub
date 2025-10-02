@@ -14,7 +14,7 @@ const config = {
   baseUrl: '/wikihub/',
 
   organizationName: 'letrongv4ng',
-  projectName: 'student-hub',
+  projectName: 'wikihub',
 
   onBrokenLinks: 'throw',
   markdown: {
